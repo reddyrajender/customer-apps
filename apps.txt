@@ -1,0 +1,6 @@
+
+apps list 
+
+cam
+music player
+

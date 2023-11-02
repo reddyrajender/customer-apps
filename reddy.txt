@@ -6,3 +6,6 @@ git commands
 banches
 repository
 
+
+
+basic commands

@@ -9,3 +9,5 @@ repository
 
 
 basic commands
+git Init
+git status
